@@ -34,7 +34,7 @@ font-size: 1.5em;
 <body>
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2018年6月14日(木)にFTS同窓会が執り行われました !!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
  <ul>
 <li><a href="20180614_05.jpg" class="preview"><img src="20180614_05.jpg" alt="サンプル画像" width="150" /></a></li>
 <li><a href="20180614_03.jpg" class="preview"><img src="20180614_03.jpg" alt="サンプル画像" width="150" /></a></li>
@@ -49,3 +49,9 @@ font-size: 1.5em;
 
   </body>
 </html>
+      <p>&#160;</p>
+
+<!-- フッタ -->
+ <footer>
+ Copyright 2018/06/15 S.Hada
+ </footer>
