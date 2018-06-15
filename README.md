@@ -1,5 +1,5 @@
 # 20180614_fts
-
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html lang="ja">
  <head>
   <meta charset="UTF-8">
@@ -37,7 +37,7 @@ font-size: 1.5em;
  
  <ul>
 <li><a href="20180614_02.jpg" class="preview"><img src="20180614_02.jpg" alt="サンプル画像" width="150" /></a></li>
-<li><a href="20180614_03.jpg" class="preview"><img src="20180614_03.jpg"" alt="サンプル画像" width="150" /></a></li>
+<li><a href="20180614_03.jpg" class="preview"><img src="20180614_03.jpg" alt="サンプル画像" width="150" /></a></li>
 <li><a href="20180614_04.jpg" class="preview"><img src="20180614_04.jpg" alt="サンプル画像" width="150" /></a></li>
 <li><a href="20180614_05.jpg" class="preview"><img src="20180614_05.jpg" alt="サンプル画像" width="150" /></a></li>
 </ul>
