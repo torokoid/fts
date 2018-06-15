@@ -9,9 +9,9 @@
 color: #fffafa;
 font-size: 1.5em;
  }
-  </style>
+
     body { background: url(https://torokoid.github.io/fts/20180614_01.JPG) repeat-y top center fixed;  background-size:contain; "} 
-  
+   </style> 
 </head>
 <body>
   <h1><span class="yellow"><marquee behavior="alternate">!!! 2018年6月14日(木)にFTS忘年会が執り行われました !!!</marquee></span></h1>
