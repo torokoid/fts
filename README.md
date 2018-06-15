@@ -1,6 +1,5 @@
 # 20180614_fts
 
-
 <html lang="ja">
  <head>
   <meta charset="UTF-8">
