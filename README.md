@@ -1,14 +1,8 @@
 # 20180614_fts
 
-<!-- See http://mathiasbynens.be/notes/xhtml5 for more info. -->
-<!-- This document is served as application/xhtml+xml to trigger HTML5 in XML serialization mode. -->
-<!-- The DOCTYPE is optional in XML mode, but if you don't want to omit it, it needs to be uppercase. -->
-<!-- Also, you need to add an XML namespace to the root element. -->
-<html xmlns="http://www.w3.org/1999/xhtml">
 <html lang="ja">
  <head>
   <meta charset="utf-8" />
-  <title>XHTML5, or HTML5 in XML serialization mode</title>
 
 <style type="text/css">
   p {
@@ -38,8 +32,7 @@ font-size: 1.5em;
    </style> 
 </head>
 <body>
-	 <p><a href="http://html5.validator.nu/?doc=http://mathiasbynens.be/demo/xhtml5">Valid XHTML5</a>!</p>
-  <h1><span class="yellow"><marquee behavior="alternate">!!! 2018年6月14日(木)にFTS同窓会が執り行われました !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="alternate">!!! 2018年6月14日(木)にFTS同窓会が執り行われました !!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
  <ul>
