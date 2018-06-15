@@ -26,7 +26,7 @@ font-size: 1.5em;
 　　　　　　padding: 10px;}
  -->
  #preview{
-	position: absolute;
+	position: relative;
 	border: 3px solid #333;
 	background: #444;
 	padding: 5px;
@@ -41,12 +41,17 @@ font-size: 1.5em;
 	 <p><a href="http://html5.validator.nu/?doc=http://mathiasbynens.be/demo/xhtml5">Valid XHTML5</a>!</p>
   <h1><span class="yellow"><marquee behavior="alternate">!!! 2018年6月14日(木)にFTS同窓会が執り行われました !!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
- 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
  <ul>
-<li><a href="20180614_02.jpg" class="preview"><img src="20180614_02.jpg" alt="サンプル画像" width="150" /></a></li>
+<li><a href="20180614_05.jpg" class="preview"><img src="20180614_05.jpg" alt="サンプル画像" width="150" /></a></li>
 <li><a href="20180614_03.jpg" class="preview"><img src="20180614_03.jpg" alt="サンプル画像" width="150" /></a></li>
 <li><a href="20180614_04.jpg" class="preview"><img src="20180614_04.jpg" alt="サンプル画像" width="150" /></a></li>
-<li><a href="20180614_05.jpg" class="preview"><img src="20180614_05.jpg" alt="サンプル画像" width="150" /></a></li>
+<li><a href="20180614_02.jpg" class="preview"><img src="20180614_02.jpg" alt="サンプル画像" width="150" /></a></li>
+<li><a href="20180614_06.jpg" class="preview"><img src="20180614_06.jpg" alt="サンプル画像" width="150" /></a></li>
+<li><a href="20180614_07.jpg" class="preview"><img src="20180614_07.jpg" alt="サンプル画像" width="150" /></a></li>
+<li><a href="20180614_08.jpg" class="preview"><img src="20180614_08.jpg" alt="サンプル画像" width="150" /></a></li>
+<li><a href="20180614_09.jpg" class="preview"><img src="20180614_09.jpg" alt="サンプル画像" width="150" /></a></li>
+<li><a href="20180614_10.jpg" class="preview"><img src="20180614_10.jpg" alt="サンプル画像" width="150" /></a></li>
 </ul>
 
   </body>
