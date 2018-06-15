@@ -49,7 +49,7 @@ font-size: 1.5em;
 
   </body>
 </html>
-      <p>&#160;</p>
+<br><br>
 
 <!-- フッタ -->
  <footer>
