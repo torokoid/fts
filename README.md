@@ -23,7 +23,9 @@ font-size: 1.5em;
    </style> 
 </head>
 <body>
-  <h1><span class="yellow"><marquee behavior="alternate">!!! 2018年6月14日(木)にFTS忘年会が執り行われました !!!</marquee></span></h1>
+  <h1><span class="yellow"><marquee behavior="alternate">!!! 2018年6月14日(木)にFTS同窓会が執り行われました !!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
+ 
+ 
   </body>
 </html>
