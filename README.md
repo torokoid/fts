@@ -1,8 +1,14 @@
 # 20180614_fts
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!DOCTYPE html>
+<!-- See http://mathiasbynens.be/notes/xhtml5 for more info. -->
+<!-- This document is served as application/xhtml+xml to trigger HTML5 in XML serialization mode. -->
+<!-- The DOCTYPE is optional in XML mode, but if you don't want to omit it, it needs to be uppercase. -->
+<!-- Also, you need to add an XML namespace to the root element. -->
+<html xmlns="http://www.w3.org/1999/xhtml">
 <html lang="ja">
  <head>
-  <meta charset="UTF-8">
+  <meta charset="utf-8" />
+  <title>XHTML5, or HTML5 in XML serialization mode</title>
 
 <style type="text/css">
   p {
