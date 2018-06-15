@@ -1,5 +1,5 @@
 # 20180614_fts
-<!DOCTYPE html>
+
 
 <html lang="ja">
  <head>
