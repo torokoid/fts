@@ -64,7 +64,7 @@ font-size: 1.5em;
 <a href="20180614_11.JPG" class="preview"><img src="20180614_11.JPG" alt="サンプル画像" width="300" /></a>
 	<h3><span class="white">↑ パノラマ・マジックで、横山さんの手が千手観音になったり、誰だかわからない女性がいたりします。</span></h3></div>
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <div style="background-color:rgb(255,255,255,0.2);">
 <h3><span class="snow">開催宣言<br>
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br>
