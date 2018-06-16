@@ -53,6 +53,7 @@ font-size: 1.5em;
 	<h3><span class="white">↑ パノラマ・マジックで、横山さんの手が千手観音になったり、誰だかわからない女性がいたりします。</span></h3></div>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<div style="background-color:rgb(255,255,255,0.2);">
 <h3><span class="snow">開催宣言<br>
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br>
 From: Masayo Arai (荒井 雅代)<br>
@@ -73,7 +74,7 @@ FTS関連の同窓会を以下の日程で行います。<br>
 荒井　雅代<br>
 株式会社 本田技術研究所　R&DセンターＸ<br>
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br></span></h3>
-
+</div>
   </body>
 </html>
 <br><br>
