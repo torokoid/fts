@@ -10,7 +10,7 @@ font-size: 1.5em;
  }
 <!--
  .red {color:#ff0000;}
- .grey {color:#ffffff; background:#999999;}
+ .grey {color:#999999;}
  .yellow {color:#ff0000; background:#ffff00;}
  .blue {color:#0000ff;}
  .white {color:#ffffff; blinking;}
