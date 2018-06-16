@@ -34,7 +34,7 @@ font-size: 1.5em;
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2018年6月14日(木)にFTS同窓会が執り行われました !!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-	<h3><p>画像はクリックで拡大します。閲覧後は戻るボタンでお戻りください。</p></h3>
+	<h3><span class="white">↓画像はクリックで拡大します。閲覧後は戻るボタンでお戻りください。</span></h3>
  <ul>
 <li><a href="20180614_05.jpg" class="preview"><img src="20180614_05.jpg" alt="サンプル画像" width="150" /></a></li>
 <li><a href="20180614_03.jpg" class="preview"><img src="20180614_03.jpg" alt="サンプル画像" width="150" /></a></li>
@@ -46,7 +46,7 @@ font-size: 1.5em;
 <li><a href="20180614_09.jpg" class="preview"><img src="20180614_09.jpg" alt="サンプル画像" width="150" /></a></li>
 <li><a href="20180614_10.jpg" class="preview"><img src="20180614_10.jpg" alt="サンプル画像" width="150" /></a></li>
 <li><a href="20180614_11.JPG" class="preview"><img src="20180614_11.JPG" alt="サンプル画像" width="300" /></a></li>
-	<h3><p>パノラママジックで、横山さんの手が千手観音になったり、誰だかわからない女性がいたりします。</p></h3>
+	<h3><span class="white">↑パノラママジックで、横山さんの手が千手観音になったり、誰だかわからない女性がいたりします。</span></h3>
 </ul>
 
   </body>
