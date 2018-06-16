@@ -28,6 +28,9 @@ font-size: 1.5em;
 	color: #FFF;
 	text-align: center;
 }
+div {
+background-color: rgb(128,128,128,0.8);
+}
     body { background: url(https://torokoid.github.io/fts/20180614_01.JPG) repeat-y top center fixed;  background-size:contain; "} 
    </style> 
 </head>
