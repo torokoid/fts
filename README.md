@@ -35,7 +35,7 @@ font-size: 1.5em;
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
  <ul>
-	 <h3><span class="white">↓画像はクリックで拡大します。閲覧後は戻るボタンでお戻りください。</span></h3>
+	 <h3><span class="white">↓画像はクリックで拡大します。閲覧後はブラウザの戻るボタンでお戻りください。</span></h3>
 <li><a href="20180614_05.jpg" class="preview"><img src="20180614_05.jpg" alt="サンプル画像" width="150" /></a></li>
 <li><a href="20180614_03.jpg" class="preview"><img src="20180614_03.jpg" alt="サンプル画像" width="150" /></a></li>
 <li><a href="20180614_04.jpg" class="preview"><img src="20180614_04.jpg" alt="サンプル画像" width="150" /></a></li>
