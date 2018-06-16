@@ -48,7 +48,7 @@ font-size: 1.5em;
 <li><a href="20180614_11.JPG" class="preview"><img src="20180614_11.JPG" alt="サンプル画像" width="300" /></a></li>
 	<h3><span class="white">↑パノラママジックで、横山さんの手が千手観音になったり、誰だかわからない女性がいたりします。</span></h3>
 </ul>
-
+<br><br><br><br><br><br><br><br><br>
 <h3><span class="grey">開催宣言<br>
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br>	
 Subject: 【人数確認】　FTS関連同窓会　<br>
