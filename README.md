@@ -11,6 +11,7 @@ font-size: 1.5em;
 <!--
  .red {color:#ff0000;}
  .grey {color:#999999;}
+ .snow {color:#fffafa;}
  .yellow {color:#ff0000; background:#ffff00;}
  .blue {color:#0000ff;}
  .white {color:#ffffff; blinking;}
@@ -49,7 +50,7 @@ font-size: 1.5em;
 	<h3><span class="white">↑パノラママジックで、横山さんの手が千手観音になったり、誰だかわからない女性がいたりします。</span></h3>
 </ul>
 <br><br><br><br><br><br><br><br><br>
-<h3><span class="grey">開催宣言<br>
+<h3><span class="snow">開催宣言<br>
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br>
 From: Masayo Arai (荒井 雅代)<br>
 Sent: Monday, June 04, 2018 2:12 PM<br>
