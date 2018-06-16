@@ -34,8 +34,8 @@ font-size: 1.5em;
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2018年6月14日(木)にFTS同窓会が執り行われました !!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-	<h3><span class="white">↓画像はクリックで拡大します。閲覧後は戻るボタンでお戻りください。</span></h3>
  <ul>
+	 <h3><span class="white">↓画像はクリックで拡大します。閲覧後は戻るボタンでお戻りください。</span></h3>
 <li><a href="20180614_05.jpg" class="preview"><img src="20180614_05.jpg" alt="サンプル画像" width="150" /></a></li>
 <li><a href="20180614_03.jpg" class="preview"><img src="20180614_03.jpg" alt="サンプル画像" width="150" /></a></li>
 <li><a href="20180614_04.jpg" class="preview"><img src="20180614_04.jpg" alt="サンプル画像" width="150" /></a></li>
@@ -48,6 +48,59 @@ font-size: 1.5em;
 <li><a href="20180614_11.JPG" class="preview"><img src="20180614_11.JPG" alt="サンプル画像" width="300" /></a></li>
 	<h3><span class="white">↑パノラママジックで、横山さんの手が千手観音になったり、誰だかわからない女性がいたりします。</span></h3>
 </ul>
+
+<h3><span class="white">開催宣言<br>
+	Subject: 【人数確認】　FTS関連同窓会　<br>
+
+ 
+
+関係者各位<br>
+
+ 
+
+お世話様でございます。<br>
+
+FTS関連の同窓会を以下の日程で行います。<br>
+
+参加できる方は、このメールに6月7日（木）までにお返事くださーい。<br>
+
+ 
+
+ 
+
+日時：2018年6月14日（木）19:00～<br>
+
+場所：Chinese Grill 随園別館 京橋店<br>
+
+        050-3476-0232<br>
+
+        https://r.gnavi.co.jp/p386002/<br>
+
+内容：コース料理を注文する予定<br>
+
+予約名：荒井<br>
+
+ 
+
+ 
+
+よろしくお願いいたします。<br>
+
+ 
+
+ 
+
+★<H><O><N><D><A><><H><O><N><D><A><><H><O><N><D><A>★・．<br>
+　
+荒井　雅代<br>
+株式会社 本田技術研究所　R&DセンターＸ<br>
+
+〒351-0188　埼玉県和光市本町8-1<br>
+外線：080-4789-8853　内線：8705148<br>
+FAX:048-462-5106<br>
+E-mail:masayo_arai@n.w.rd.honda.co.jp<br>
+
+★<H><O><N><D><A><><H><O><N><D><A><><H><O><N><D><A>★・．<br></span></h3>
 
   </body>
 </html>
