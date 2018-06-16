@@ -47,7 +47,7 @@ font-size: 1.5em;
 <li><a href="20180614_09.jpg" class="preview"><img src="20180614_09.jpg" alt="サンプル画像" width="150" /></a></li>
 <li><a href="20180614_10.jpg" class="preview"><img src="20180614_10.jpg" alt="サンプル画像" width="150" /></a></li>
 <li><a href="20180614_11.JPG" class="preview"><img src="20180614_11.JPG" alt="サンプル画像" width="300" /></a></li>
-	<h3><span class="white">↑パノラママジックで、横山さんの手が千手観音になったり、誰だかわからない女性がいたりします。</span></h3>
+	<h3><span class="white">↑パノラマ・マジックで、横山さんの手が千手観音になったり、誰だかわからない女性がいたりします。</span></h3>
 </ul>
 <br><br><br><br><br><br><br><br><br>
 <h3><span class="snow">開催宣言<br>
