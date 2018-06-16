@@ -19,6 +19,11 @@ font-size: 1.5em;
 　　　　　　line-height: 200%;
 　　　　　　padding: 10px;}
  -->
+	
+	div {
+background-color: rgb(128,128,128,0.8);
+}
+
  #preview{
 	position: relative;
 	border: 3px solid #333;
@@ -28,9 +33,7 @@ font-size: 1.5em;
 	color: #FFF;
 	text-align: center;
 }
-div {
-background-color: rgb(128,128,128,0.8);
-}
+
     body { background: url(https://torokoid.github.io/fts/20180614_01.JPG) repeat-y top center fixed;  background-size:contain; "} 
    </style> 
 </head>
@@ -52,7 +55,7 @@ background-color: rgb(128,128,128,0.8);
 <a href="20180614_11.JPG" class="preview"><img src="20180614_11.JPG" alt="サンプル画像" width="300" /></a>
 	<h3><span class="white">↑ パノラマ・マジックで、横山さんの手が千手観音になったり、誰だかわからない女性がいたりします。</span></h3>
 </div>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h3><span class="snow">開催宣言<br>
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br>
 From: Masayo Arai (荒井 雅代)<br>
