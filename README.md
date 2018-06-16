@@ -48,7 +48,19 @@ font-size: 1.5em;
 <a href="20180614_07.jpg" class="preview"><img src="20180614_07.jpg" alt="サンプル画像" width="150" /></a>
 <a href="20180614_08.jpg" class="preview"><img src="20180614_08.jpg" alt="サンプル画像" width="150" /></a>
 <a href="20180614_09.jpg" class="preview"><img src="20180614_09.jpg" alt="サンプル画像" width="150" /></a>
-<a href="20180614_10.jpg" class="preview"><img src="20180614_10.jpg" alt="サンプル画像" width="150" /></a><br>
+<a href="20180614_10.jpg" class="preview"><img src="20180614_10.jpg" alt="サンプル画像" width="150" /></a>
+<a href="20180614_12.jpg" class="preview"><img src="20180614_12.jpg" alt="サンプル画像" width="150" /></a>
+<a href="20180614_13.jpg" class="preview"><img src="20180614_13.jpg" alt="サンプル画像" width="150" /></a>
+<a href="20180614_14.jpg" class="preview"><img src="20180614_14.jpg" alt="サンプル画像" width="150" /></a>
+<a href="20180614_15.jpg" class="preview"><img src="20180614_15.jpg" alt="サンプル画像" width="150" /></a>
+<a href="20180614_16.jpg" class="preview"><img src="20180614_16.jpg" alt="サンプル画像" width="150" /></a>
+<a href="20180614_17.jpg" class="preview"><img src="20180614_17.jpg" alt="サンプル画像" width="150" /></a>
+<a href="20180614_18.jpg" class="preview"><img src="20180614_18.jpg" alt="サンプル画像" width="150" /></a>
+<a href="20180614_19.jpg" class="preview"><img src="20180614_19.jpg" alt="サンプル画像" width="150" /></a>
+<a href="20180614_20.jpg" class="preview"><img src="20180614_20.jpg" alt="サンプル画像" width="150" /></a>
+<a href="20180614_21.jpg" class="preview"><img src="20180614_21.jpg" alt="サンプル画像" width="150" /></a>
+<a href="20180614_22.jpg" class="preview"><img src="20180614_22.jpg" alt="サンプル画像" width="150" /></a>
+<a href="20180614_23.jpg" class="preview"><img src="20180614_23.jpg" alt="サンプル画像" width="150" /></a><br>
 <a href="20180614_11.JPG" class="preview"><img src="20180614_11.JPG" alt="サンプル画像" width="300" /></a>
 	<h3><span class="white">↑ パノラマ・マジックで、横山さんの手が千手観音になったり、誰だかわからない女性がいたりします。</span></h3></div>
 
