@@ -53,7 +53,7 @@ font-size: 1.5em;
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br>
 From: Masayo Arai (荒井 雅代)<br>
 Sent: Monday, June 04, 2018 2:12 PM<br>
-To: kazk408@gmail.com; tomiji.sugimoto@tmg-n.com; gonnemomo@yahoo.co.jp; yoshi.0611yama@ezweb.ne.jp; m-tsuge0392@xb4.so-net.ne.jp; Toshio Yokoyama (横山 利夫) <Toshio_Yokoyama@n.t.rd.honda.co.jp>; Tadahiro Yaguchi (矢口 忠博) <tadahiro_yaguchi@n.w.rd.honda.co.jp>; 0nh75b05325615n@ezweb.ne.jp; Shuichi Kato (加藤 秀一) <shuichi.kato@mail.a.rd.honda.co.jp>; Yuji Saito (斉藤 祐司) <yuji_saito@n.w.rd.honda.co.jp>; Takero Shibukawa (澁川 岳郎) <takero_shibukawa@n.w.rd.honda.co.jp>; Minoru Kobayashi (小林 実) <minoru_kobayashi@n.t.rd.honda.co.jp>; Satoshi Hada (羽田 智) <satoshi_hada@n.t.rd.honda.co.jp>; 加藤正彰さま (katom91649@gmail.com) <katom91649@gmail.com>; Yutaka Kamata (鎌田 豊) <Yutaka_Kamata@n.t.rd.honda.co.jp>; mm113.green@gmail.com<br>
+To: (横山 利夫)(矢口 忠博)(加藤 秀一)(斉藤 祐司)(澁川 岳郎)(小林 実)(羽田 智) 加藤正彰さま(鎌田 豊),他<br>
 Subject: 【人数確認】　FTS関連同窓会　<br>
 関係者各位<br>
 お世話様でございます。<br>
@@ -68,11 +68,6 @@ FTS関連の同窓会を以下の日程で行います。<br>
 よろしくお願いいたします。<br>　
 荒井　雅代<br>
 株式会社 本田技術研究所　R&DセンターＸ<br>
-<br>
-〒351-0188　埼玉県和光市本町8-1<br>
-外線：080-4789-8853　内線：8705148<br>
-FAX:048-462-5106<br>
-E-mail:masayo_arai@n.w.rd.honda.co.jp<br>
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br></span></h3>
 
   </body>
