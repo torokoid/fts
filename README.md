@@ -38,8 +38,8 @@ background-color: rgb(128,128,128,0.8);
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2018年6月14日(木)にFTS同窓会が執り行われました !!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
- <div>
-	 <h3><span class="white">↓ 画像はクリックで拡大します。閲覧後はブラウザの戻るボタンでお戻りください。</span></h3>
+
+<div>	 <h3><span class="white">↓ 画像はクリックで拡大します。閲覧後はブラウザの戻るボタンでお戻りください。</span></h3>
 <a href="20180614_05.jpg" class="preview"><img src="20180614_05.jpg" alt="サンプル画像" width="150" /></a>
 <a href="20180614_03.jpg" class="preview"><img src="20180614_03.jpg" alt="サンプル画像" width="150" /></a>
 <a href="20180614_04.jpg" class="preview"><img src="20180614_04.jpg" alt="サンプル画像" width="150" /></a>
@@ -48,7 +48,7 @@ background-color: rgb(128,128,128,0.8);
 <a href="20180614_07.jpg" class="preview"><img src="20180614_07.jpg" alt="サンプル画像" width="150" /></a>
 <a href="20180614_08.jpg" class="preview"><img src="20180614_08.jpg" alt="サンプル画像" width="150" /></a>
 <a href="20180614_09.jpg" class="preview"><img src="20180614_09.jpg" alt="サンプル画像" width="150" /></a>
-<a href="20180614_10.jpg" class="preview"><img src="20180614_10.jpg" alt="サンプル画像" width="150" /></a>
+<a href="20180614_10.jpg" class="preview"><img src="20180614_10.jpg" alt="サンプル画像" width="150" /></a><br>
 <a href="20180614_11.JPG" class="preview"><img src="20180614_11.JPG" alt="サンプル画像" width="300" /></a>
 	<h3><span class="white">↑ パノラマ・マジックで、横山さんの手が千手観音になったり、誰だかわからない女性がいたりします。</span></h3>
 </div>
