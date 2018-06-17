@@ -48,7 +48,7 @@ font-size: 1.5em;
 <a href="20180614_07.jpg" class="preview"><img src="20180614_07.jpg" alt="サンプル画像" width="150" /></a>
 <a href="20180614_08.jpg" class="preview"><img src="20180614_08.jpg" alt="サンプル画像" width="150" /></a>
 <a href="20180614_09.jpg" class="preview"><img src="20180614_09.jpg" alt="サンプル画像" width="150" /></a>
-<a href="20180614_10.jpg" class="preview"><img src="20180614_10.jpg" alt="サンプル画像" width="150" /></a>
+<a href="20180614_10.jpg" class="preview"><img src="20180614_10.jpg" alt="サンプル画像" width="150" /></a><br>
 <a href="20180614_11.JPG" class="preview"><img src="20180614_11.JPG" alt="サンプル画像" width="300" /></a>
 <h4><span class="white">← パノラマ・マジックで、横山さんの手が千手観音になったり、誰だかわからない女性がいたりします。</span></h4><br>
 <a href="20180614_12.JPG" class="preview"><img src="20180614_12.JPG" alt="サンプル画像" width="150" /></a>
