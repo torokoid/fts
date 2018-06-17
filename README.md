@@ -71,7 +71,7 @@ font-size: 1.5em;
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br>
 From: Masayo Arai (荒井 雅代)<br>
 Sent: Monday, June 04, 2018 2:12 PM<br>
-To: (横山 利夫)(矢口 忠博)(加藤 秀一)(斉藤 祐司)(澁川 岳郎)(小林 実)(羽田 智) 加藤正彰さま(鎌田 豊),他<br>
+To: mm113.green@gmail.com; kazk408@gmail.com; tomiji.sugimoto@tmg-n.com; gonnemomo@yahoo.co.jp; yoshi.0611yama@ezweb.ne.jp; m-tsuge0392@xb4.so-net.ne.jp; Toshio Yokoyama (横山 利夫) <Toshio_Yokoyama@n.t.rd.honda.co.jp>; Tadahiro Yaguchi (矢口 忠博) <tadahiro_yaguchi@n.w.rd.honda.co.jp>; Yasuhiro Sakashita (坂下 泰広) <yasuhiro_sakashita@n.w.rd.honda.co.jp>; 0nh75b05325615n@ezweb.ne.jp; Shuichi Kato (加藤 秀一) <shuichi.kato@mail.a.rd.honda.co.jp>; Yuji Saito (斉藤 祐司) <yuji_saito@n.w.rd.honda.co.jp>; Takero Shibukawa (澁川 岳郎) <takero_shibukawa@n.w.rd.honda.co.jp>; Minoru Kobayashi (小林 実) <minoru_kobayashi@n.t.rd.honda.co.jp>; Satoshi Hada (羽田 智) <satoshi_hada@n.t.rd.honda.co.jp>; Yutaka Kamata (鎌田 豊) <Yutaka_Kamata@n.t.rd.honda.co.jp>; MASASHI SATOMURA (里村 昌史) <Masashi_Satomura@hm.honda.co.jp>; KAZUYA TAMURA (田村 和也) <kazuya_tamura@hm.honda.co.jp>; Kazuyuki Maruyama (丸山 一幸) <kazuyuki.maruyama@mail.a.rd.honda.co.jp><br>
 Subject: 【人数確認】　FTS関連同窓会　<br>
 関係者各位<br>
 お世話様でございます。<br>
