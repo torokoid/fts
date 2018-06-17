@@ -49,8 +49,8 @@ font-size: 1.5em;
 <a href="20180614_08.jpg" class="preview"><img src="20180614_08.jpg" alt="サンプル画像" width="150" /></a>
 <a href="20180614_09.jpg" class="preview"><img src="20180614_09.jpg" alt="サンプル画像" width="150" /></a>
 <a href="20180614_10.jpg" class="preview"><img src="20180614_10.jpg" alt="サンプル画像" width="150" /></a>
-<h3><span class="white">← パノラマ・マジックで、横山さんの手が千手観音になったり、誰だかわからない女性がいたりします。</span></h3><br>
-<a href="20180614_11.JPG" class="preview"><img src="20180614_11.JPG" alt="サンプル画像" width="300" /></a><br>
+<a href="20180614_11.JPG" class="preview"><img src="20180614_11.JPG" alt="サンプル画像" width="300" /></a>
+<h4><span class="white">← パノラマ・マジックで、横山さんの手が千手観音になったり、誰だかわからない女性がいたりします。</span></h4><br>
 <a href="20180614_12.JPG" class="preview"><img src="20180614_12.JPG" alt="サンプル画像" width="150" /></a>
 <a href="20180614_13.JPG" class="preview"><img src="20180614_13.JPG" alt="サンプル画像" width="150" /></a>
 <a href="20180614_14.JPG" class="preview"><img src="20180614_14.JPG" alt="サンプル画像" width="150" /></a>
@@ -63,7 +63,7 @@ font-size: 1.5em;
 <a href="20180614_21.JPG" class="preview"><img src="20180614_21.JPG" alt="サンプル画像" width="150" /></a>
 <a href="20180614_22.JPG" class="preview"><img src="20180614_22.JPG" alt="サンプル画像" width="150" /></a>
 <a href="20180614_23.JPG" class="preview"><img src="20180614_23.JPG" alt="サンプル画像" width="150" /></a>
-<h3><span class="white">パノラマから上は櫛田さんiPhone、パノラマから下は緑川さんカメラ、背景画像は里村さんiPhooneでした。</span></h3></div>
+<h3><span class="white">パノラマから上は櫛田さん、パノラマから下は緑川さん、背景画像は里村さんから頂きました。</span></h3></div>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <div style="background-color:rgb(255,255,255,0.2);">
