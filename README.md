@@ -70,7 +70,7 @@ font-size: 1.5em;
 <br><br>
 
 <div style="background-color:rgb(255,255,255,0.2);">
-<h3><span class="snow">開催宣言<br>
+<h3><span class="snow">・・・始まりはこのメールから・・・<br>
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br>
 From: Masayo Arai (荒井 雅代)<br>
 Sent: Friday, April 27, 2018 10:47 AM<br>
