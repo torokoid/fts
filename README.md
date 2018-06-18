@@ -67,7 +67,39 @@ font-size: 1.5em;
 <a href="20180614_23.JPG" class="preview"><img src="20180614_23.JPG" alt="サンプル画像" width="150" /></a>
 <h3><span class="white">パノラマから上は櫛田さん、パノラマから下は緑川さん、背景画像は里村さんから頂きました。</span></h3></div>
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br>
+
+<div style="background-color:rgb(255,255,255,0.2);">
+<h3><span class="snow">開催宣言<br>
+★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br>
+From: Masayo Arai (荒井 雅代)<br>
+Sent: Friday, April 27, 2018 10:47 AM<br>
+To: Toshio Yokoyama (横山 利夫) <Toshio_Yokoyama@n.t.rd.honda.co.jp>; Tadahiro Yaguchi (矢口 忠博) <tadahiro_yaguchi@n.w.rd.honda.co.jp>; 0nh75b05325615n@ezweb.ne.jp; Shuichi Kato (加藤 秀一) <shuichi.kato@mail.a.rd.honda.co.jp>; Yuji Saito (斉藤 祐司) <yuji_saito@n.w.rd.honda.co.jp>; Takero Shibukawa (澁川 岳郎) <takero_shibukawa@n.w.rd.honda.co.jp>; Minoru Kobayashi (小林 実) <minoru_kobayashi@n.t.rd.honda.co.jp>; Satoshi Hada (羽田 智) <satoshi_hada@n.t.rd.honda.co.jp>; Jun_A_Tomizawa@hm.honda.co.j; mm113.green@gmail.com; kazk408@gmail.com; tomiji.sugimoto@tmg-n.com; gonnemomo@yahoo.co.jp; yoshi.0611yama@ezweb.ne.jp; m-tsuge0392@xb4.so-net.ne.jp<br>
+Cc: masayoarai1129@gmail.com<br>
+Subject: 【ご案内】　未来交通システム研究室同窓会のご案内<br>
+関係各位<br>
+お世話様でございます。<br>
+のびのびにしておりました<br>
+未来交通システム研究室同窓会を以下の日程で行います。<br>
+少し先になりますが、場所を予約する関係で出席できる方は<br>
+このメールにご連絡いただけると幸いです。<br>
+よろしくお願いします。<br>
+日時：2018年6月14日（木）19:00<br>
+場所：23区内<br>
+加藤正彰さんもご出席いただけます！<br>
+※前回お返事届いた方のみにご連絡しております。<br>
+荒井　雅代<br>
+株式会社 本田技術研究所　R&DセンターＸ<br>
+〒351-0188　埼玉県和光市本町8-1<br>
+外線：080-4789-8853　内線：8705148<br>
+FAX:048-462-5106<br>
+E-mail:masayo_arai@n.w.rd.honda.co.jp<br>
+★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br></span></h3>
+</div>
+
+<br><br>
+
+
 <div style="background-color:rgb(255,255,255,0.2);">
 <h3><span class="snow">開催宣言<br>
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br>
