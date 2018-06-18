@@ -71,7 +71,7 @@ font-size: 1.5em;
 
 <div style="background-color:rgb(255,255,255,0.2);">
 <h3><span class="snow">・・・始まりはこのメールから・・・<br>
-★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br>
+★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br>
 From: Masayo Arai (荒井 雅代)<br>
 Sent: Friday, April 27, 2018 10:47 AM<br>
 To: Toshio Yokoyama (横山 利夫) <Toshio_Yokoyama@n.t.rd.honda.co.jp>; Tadahiro Yaguchi (矢口 忠博) <tadahiro_yaguchi@n.w.rd.honda.co.jp>; 0nh75b05325615n@ezweb.ne.jp; Shuichi Kato (加藤 秀一) <shuichi.kato@mail.a.rd.honda.co.jp>; Yuji Saito (斉藤 祐司) <yuji_saito@n.w.rd.honda.co.jp>; Takero Shibukawa (澁川 岳郎) <takero_shibukawa@n.w.rd.honda.co.jp>; Minoru Kobayashi (小林 実) <minoru_kobayashi@n.t.rd.honda.co.jp>; Satoshi Hada (羽田 智) <satoshi_hada@n.t.rd.honda.co.jp>; Jun_A_Tomizawa@hm.honda.co.j; mm113.green@gmail.com; kazk408@gmail.com; tomiji.sugimoto@tmg-n.com; gonnemomo@yahoo.co.jp; yoshi.0611yama@ezweb.ne.jp; m-tsuge0392@xb4.so-net.ne.jp<br>
@@ -94,7 +94,7 @@ Subject: 【ご案内】　未来交通システム研究室同窓会のご案�
 外線：080-4789-8853　内線：8705148<br>
 FAX:048-462-5106<br>
 E-mail:masayo_arai@n.w.rd.honda.co.jp<br>
-★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br></span></h3>
+★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br></span></h3>
 </div>
 
 <br><br>
@@ -102,7 +102,7 @@ E-mail:masayo_arai@n.w.rd.honda.co.jp<br>
 
 <div style="background-color:rgb(255,255,255,0.2);">
 <h3><span class="snow">開催宣言<br>
-★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br>
+★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br>
 From: Masayo Arai (荒井 雅代)<br>
 Sent: Monday, June 04, 2018 2:12 PM<br>
 To: mm113.green@gmail.com; kazk408@gmail.com; tomiji.sugimoto@tmg-n.com; gonnemomo@yahoo.co.jp; yoshi.0611yama@ezweb.ne.jp; m-tsuge0392@xb4.so-net.ne.jp; Toshio Yokoyama (横山 利夫) <Toshio_Yokoyama@n.t.rd.honda.co.jp>; Tadahiro Yaguchi (矢口 忠博) <tadahiro_yaguchi@n.w.rd.honda.co.jp>; Yasuhiro Sakashita (坂下 泰広) <yasuhiro_sakashita@n.w.rd.honda.co.jp>; 0nh75b05325615n@ezweb.ne.jp; Shuichi Kato (加藤 秀一) <shuichi.kato@mail.a.rd.honda.co.jp>; Yuji Saito (斉藤 祐司) <yuji_saito@n.w.rd.honda.co.jp>; Takero Shibukawa (澁川 岳郎) <takero_shibukawa@n.w.rd.honda.co.jp>; Minoru Kobayashi (小林 実) <minoru_kobayashi@n.t.rd.honda.co.jp>; Satoshi Hada (羽田 智) <satoshi_hada@n.t.rd.honda.co.jp>; Yutaka Kamata (鎌田 豊) <Yutaka_Kamata@n.t.rd.honda.co.jp>; MASASHI SATOMURA (里村 昌史) <Masashi_Satomura@hm.honda.co.jp>; KAZUYA TAMURA (田村 和也) <kazuya_tamura@hm.honda.co.jp>; Kazuyuki Maruyama (丸山 一幸) <kazuyuki.maruyama@mail.a.rd.honda.co.jp><br>
@@ -120,7 +120,7 @@ FTS関連の同窓会を以下の日程で行います。<br>
 よろしくお願いいたします。<br>　
 荒井　雅代<br>
 株式会社 本田技術研究所　R&DセンターＸ<br>
-★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br></span></h3>
+★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br></span></h3>
 </div>
   </body>
 </html>
