@@ -101,7 +101,7 @@ E-mail:masayo_arai@n.w.rd.honda.co.jp<br>
 
 
 <div style="background-color:rgb(255,255,255,0.2);">
-<h3><span class="snow">開催宣言<br>
+<h3><span class="snow">・・・開催宣言・・・<br>
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br>
 From: Masayo Arai (荒井 雅代)<br>
 Sent: Monday, June 04, 2018 2:12 PM<br>
