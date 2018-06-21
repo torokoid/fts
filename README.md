@@ -3,7 +3,12 @@
  <head>
   <meta charset="utf-8" />
 
-<style type="text/css">
+<style type="text/ccs">
+	<script type="text/javascript">
+   function gate() {
+      var UserInput = prompt("パスワードを入力して下さい:","");
+      location.href = UserInput + ".html";
+   }
   p {
 color: #fffafa;
 font-size: 1.5em;
@@ -123,6 +128,7 @@ FTS関連の同窓会を以下の日程で行います。<br>
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br></span></h3>
 </div>
   </body>
+	<input type="button" value="パスワードを入力して秘密のページへアクセスする" onclick="gate();">
 </html>
 <br><br>
 
