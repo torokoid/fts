@@ -3,7 +3,6 @@
  <head>
   <meta charset="utf-8" />
 
-<style type="text/ccs">
 <script type="text/javascript">
 function gate(){
    // ▼ユーザの入力を求める
@@ -48,6 +47,7 @@ font-size: 1.5em;
     body { background: url(https://torokoid.github.io/fts/20180614_01.JPG) repeat-y top center fixed;  background-size:contain; "} 
    </style> 
 </head>
+	<input type="button" value="パスワードを入力して秘密のページへアクセスする" onclick="gate();">
 <body>
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2018年6月14日(木)にFTS同窓会が執り行われました !!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
@@ -138,7 +138,7 @@ FTS関連の同窓会を以下の日程で行います。<br>
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br></span></h3>
 </div>
   </body>
-	<input type="button" value="パスワードを入力して秘密のページへアクセスする" onclick="gate();">
+
 </html>
 <br><br>
 
