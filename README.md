@@ -33,25 +33,7 @@ font-size: 1.5em;
     body { background: url(https://torokoid.github.io/fts/20180614_01.JPG) repeat-y top center fixed;  background-size:contain; "} 
    </style> 
    
-   <script type="text/javascript">
-function gate(){
-   // ▼ユーザの入力を求める
-   var UserInput = prompt("パスワードを入力して下さい:","");
-   // ▼入力内容をチェック
-   if( /\W+/g.test(UserInput) ) {
-      // ▼半角英数字以外の文字が存在したらエラー
-      alert("半角英数字のみを入力して下さい。");
-   }
-   // ▼キャンセルをチェック
-   else if( UserInput != null ) {
-      // ▼入力内容からファイル名を生成して移動
-      location.href = UserInput + ".html";
-   }
-}
-</script>
-   
 </head>
-<input type="button" value="パスワードを入力して秘密のページへアクセスする" onclick="gate();">
 <body>
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2018年6月14日(木)にFTS同窓会が執り行われました !!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
