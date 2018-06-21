@@ -1,0 +1,4 @@
+AuthType     Basic
+AuthName     "Authentication Sample"
+AuthUserFile /github.com/torokoid/fts/.htpasswd
+require valid-user
