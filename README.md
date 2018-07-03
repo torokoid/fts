@@ -31,8 +31,7 @@ font-size: 1.5em;
 }
 
     body { background: url(https://torokoid.github.io/fts/20180614_01.JPG) repeat-y top center fixed;  background-size:contain; "} 
-   </style> 
-   
+
    body::before {
   background:url('https://torokoid.github.io/fts/20180614_01.JPG') no-repeat left top;
   background-size: 100% auto;
@@ -46,6 +45,8 @@ font-size: 1.5em;
   content: "";
   z-index: -1;
 }   
+
+</style> 
    
 </head>
 <body>
