@@ -33,7 +33,7 @@ font-size: 1.5em;
 
 
    body::before {
-  background:url('https://torokoid.github.io/fts/20180614_01.JPG') no-repeat left top;
+  background:url('https://torokoid.github.io/fts/20180614_01.JPG') no-repeat center top;
   background-size: 100% auto;
   display: block;
   position: fixed;
