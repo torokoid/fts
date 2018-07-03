@@ -33,6 +33,20 @@ font-size: 1.5em;
     body { background: url(https://torokoid.github.io/fts/20180614_01.JPG) repeat-y top center fixed;  background-size:contain; "} 
    </style> 
    
+   body::before {
+  background:url('https://torokoid.github.io/fts/20180614_01.JPG') no-repeat left top;
+  background-size: 100% auto;
+  display: block;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  padding-bottom: 108px;
+  content: "";
+  z-index: -1;
+}   
+   
 </head>
 <body>
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2018年6月14日(木)にFTS同窓会が執り行われました !!!</marquee></span></h1>
