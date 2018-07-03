@@ -39,7 +39,7 @@ font-size: 1.5em;
   position: fixed;
   top: 0;
   left: 0;
-  width: 100%;
+  width: 80%;
   height: 100%;
   padding-bottom: 108px;
   content: "";
