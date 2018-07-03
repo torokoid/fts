@@ -33,7 +33,7 @@ font-size: 1.5em;
 <!--  body { background: url(https://torokoid.github.io/fts/20180614_01.JPG) repeat-y top center fixed;  background-size:contain; "} 
 -->
 
-#wrap {background:url(image/bg.jpg) center/cover no-repeat fixed}
+#wrap {background:url(https://torokoid.github.io/fts/20180614_01.JPG) center/cover no-repeat fixed}
 
 #wrap {background:none} /*PC用の背景はオフ*/
 body::before {
