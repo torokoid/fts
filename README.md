@@ -30,7 +30,24 @@ font-size: 1.5em;
 	text-align: center;
 }
 
-    body { background: url(https://torokoid.github.io/fts/20180614_01.JPG) repeat-y top center fixed;  background-size:contain; "} 
+<!--  body { background: url(https://torokoid.github.io/fts/20180614_01.JPG) repeat-y top center fixed;  background-size:contain; "} 
+-->
+
+#wrap {background:url(image/bg.jpg) center/cover no-repeat fixed}
+
+#wrap {background:none} /*PC用の背景はオフ*/
+body::before {
+  content:"";
+  display:block;
+  position:fixed;
+  top:0;
+  left:0;
+  z-index:-1;
+  width:100%;
+  height:100vh;
+  background:url(https://torokoid.github.io/fts/20180614_01.JPG) center/cover no-repeat; /*fixedをトル！*/
+  -webkit-background-size:cover;/*Android4*/
+  }
 
 <!-- 
    body::before {
@@ -56,7 +73,7 @@ font-size: 1.5em;
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2018年6月14日(木)にFTS同窓会が執り行われました !!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
+<div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
 <h3><span class="white">↓ 画像はクリックで拡大します。閲覧後はブラウザの戻るボタンでお戻りください。</span></h3>
 <a href="20180614_05.jpg" class="preview"><img src="20180614_05.jpg" alt="サンプル画像" width="180" /></a>
@@ -140,7 +157,7 @@ FTS関連の同窓会を以下の日程で行います。<br>
 荒井　雅代<br>
 株式会社 本田技術研究所　R&DセンターＸ<br>
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br></span></h3>
-</div>
+	</div></div>
   </body>
 
 </html>
