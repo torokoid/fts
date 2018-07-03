@@ -30,8 +30,9 @@ font-size: 1.5em;
 	text-align: center;
 }
 
+    body { background: url(https://torokoid.github.io/fts/20180614_01.JPG) repeat-y top center fixed;  background-size:contain; "} 
 
-
+<!-- 
    body::before {
   background:url('https://torokoid.github.io/fts/20180614_01.JPG') no-repeat center top;
   background-size: 100% auto;
@@ -44,7 +45,9 @@ font-size: 1.5em;
   padding-bottom: 108px;
   content: "";
   z-index: -1;
-}   
+}
+-->
+
 
 </style> 
    
