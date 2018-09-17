@@ -56,8 +56,8 @@ body::before {
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
 <h3><span class="white">↓ 画像はクリックで拡大します。閲覧後はブラウザの戻るボタンでお戻りください。</span></h3>
-<a href="20180614_05.jpg" rel="gr01" class="preview"><img src="20180614_05.jpg" alt="サンプル画像" width="180" /></a>
-<a href="20180614_03.jpg" rel="gr01" class="preview"><img src="20180614_03.jpg" alt="サンプル画像" width="180" /></a>
+<a href="20180614_05.jpg" rel="gr01"><img src="20180614_05.jpg" alt="サンプル画像" width="180" /></a>
+<a href="20180614_03.jpg" rel="gr01"><img src="20180614_03.jpg" alt="サンプル画像" width="180" /></a>
 <a href="20180614_04.jpg" rel="gr01" class="preview"><img src="20180614_04.jpg" alt="サンプル画像" width="180" /></a>
 <a href="20180614_02.jpg" rel="gr01" class="preview"><img src="20180614_02.jpg" alt="サンプル画像" width="180" /></a>
 <a href="20180614_06.jpg" rel="gr01" class="preview"><img src="20180614_06.jpg" alt="サンプル画像" width="180" /></a>
