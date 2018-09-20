@@ -47,9 +47,9 @@ body::before {
   -webkit-background-size:cover;/*Android4*/
   }
 
-<link rel="stylesheet" href="https://github.com/torokoid/fts/blob/master/reset.css">
-<link rel="stylesheet" href="https://github.com/torokoid/fts/blob/master/colorbox.css">
-<link rel="stylesheet" href="https://github.com/torokoid/fts/blob/master/layout.css">
+<link rel="stylesheet" href="https://torokoid.github.io/fts/blob/master/reset.css">
+<link rel="stylesheet" href="https://torokoid.github.io/fts/blob/master/colorbox.css">
+<link rel="stylesheet" href="https://torokoid.github.io/fts/blob/master/layout.css">
 
 </style> 
 
@@ -144,9 +144,9 @@ FTS関連の同窓会を以下の日程で行います。<br>
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br></span></h3>
 	</div></div>
 	
-<script src="https://github.com/torokoid/fts/blob/master/jquery-3.3.1.min.js"></script>
-<script src="https://github.com/torokoid/fts/blob/master/jquery.colorbox-min.js"></script>
-<script src="https://github.com/torokoid/fts/blob/master/index.js"></script>
+<script src="https://torokoid.github.io/fts/blob/master/jquery-3.3.1.min.js"></script>
+<script src="https://torokoid.github.io/fts/blob/master/jquery.colorbox-min.js"></script>
+<script src="https://torokoid.github.io/fts/blob/master/index.js"></script>
 </body>
 
 </html>
