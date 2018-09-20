@@ -47,10 +47,6 @@ body::before {
   -webkit-background-size:cover;/*Android4*/
   }
 
-<link rel="stylesheet" href="https://torokoid.github.io/fts/reset.css">
-<link rel="stylesheet" href="https://torokoid.github.io/fts/colorbox.css">
-<link rel="stylesheet" href="https://torokoid.github.io/fts/layout.css">
-
 </style> 
 
 </head>
@@ -143,10 +139,7 @@ FTS関連の同窓会を以下の日程で行います。<br>
 株式会社 本田技術研究所　R&DセンターＸ<br>
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br></span></h3>
 	</div></div>
-	
-<script src="https://torokoid.github.io/fts/jquery-3.3.1.min.js"></script>
-<script src="https://torokoid.github.io/fts/jquery.colorbox-min.js"></script>
-<script src="https://torokoid.github.io/fts/index.js"></script>
+
 </body>
 
 </html>
