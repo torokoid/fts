@@ -57,32 +57,32 @@ body::before {
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
-<h3><span class="white">↓ 画像はクリックで拡大します。閲覧後はブラウザの戻るボタンでお戻りください。</span></h3>
-<a href="20180614_05.jpg" data-lightbox="abc"><img src="20180614_05.jpg" alt="サンプル画像" width="180" /></a>
-<a href="20180614_03.jpg" data-lightbox="abc"><img src="20180614_03.jpg" alt="サンプル画像" width="180" /></a>
-<a href="20180614_04.jpg" data-lightbox="abc"><img src="20180614_04.jpg" alt="サンプル画像" width="180" /></a>
-<a href="20180614_02.jpg" data-lightbox="abc"><img src="20180614_02.jpg" alt="サンプル画像" width="180" /></a>
-<a href="20180614_06.jpg" data-lightbox="abc"><img src="20180614_06.jpg" alt="サンプル画像" width="180" /></a>
-<a href="20180614_07.jpg" data-lightbox="abc"><img src="20180614_07.jpg" alt="サンプル画像" width="180" /></a>
-<a href="20180614_08.jpg" data-lightbox="abc"><img src="20180614_08.jpg" alt="サンプル画像" width="180" /></a>
-<a href="20180614_09.jpg" data-lightbox="abc"><img src="20180614_09.jpg" alt="サンプル画像" width="180" /></a>
-<a href="20180614_10.jpg" data-lightbox="abc"><img src="20180614_10.jpg" alt="サンプル画像" width="180" /></a><br><br>
-<a href="20180614_11.JPG" data-lightbox="abc"><img src="20180614_11.JPG" alt="サンプル画像" width="500" /></a>
-<a href="20180614_01.JPG" data-lightbox="abc"><img src="20180614_01.JPG" alt="サンプル画像" width="250" /></a>
+<h3><span class="white">↓ 画像はクリックで拡大します。スライドショーで閲覧できます。</span></h3>
+<a href="20180614_05.jpg" data-lightbox="abc"><img src="20180614_05.jpg" alt="サンプル画像" width="100" /></a>
+<a href="20180614_03.jpg" data-lightbox="abc"><img src="20180614_03.jpg" alt="サンプル画像" width="100" /></a>
+<a href="20180614_04.jpg" data-lightbox="abc"><img src="20180614_04.jpg" alt="サンプル画像" width="100" /></a>
+<a href="20180614_02.jpg" data-lightbox="abc"><img src="20180614_02.jpg" alt="サンプル画像" width="100" /></a>
+<a href="20180614_06.jpg" data-lightbox="abc"><img src="20180614_06.jpg" alt="サンプル画像" width="100" /></a>
+<a href="20180614_07.jpg" data-lightbox="abc"><img src="20180614_07.jpg" alt="サンプル画像" width="100" /></a>
+<a href="20180614_08.jpg" data-lightbox="abc"><img src="20180614_08.jpg" alt="サンプル画像" width="100" /></a>
+<a href="20180614_09.jpg" data-lightbox="abc"><img src="20180614_09.jpg" alt="サンプル画像" width="100" /></a>
+<a href="20180614_10.jpg" data-lightbox="abc"><img src="20180614_10.jpg" alt="サンプル画像" width="100" /></a><br><br>
+<a href="20180614_11.JPG" data-lightbox="abc"><img src="20180614_11.JPG" alt="サンプル画像" width="270" /></a>
+<a href="20180614_01.JPG" data-lightbox="abc"><img src="20180614_01.JPG" alt="サンプル画像" width="120" /></a>
 <h4><span class="white">↑パノラマ・マジックで、横山さんの手が千手観音になったり、誰だかわからない女性がいたりします。<br>
 画像のダウンロード要望がありましたので、背景画像へのリンクも付けました。</span></h4><br>
-<a href="20180614_12.JPG" data-lightbox="abc"><img src="20180614_12.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20180614_13.JPG" data-lightbox="abc"><img src="20180614_13.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20180614_14.JPG" data-lightbox="abc"><img src="20180614_14.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20180614_15.JPG" data-lightbox="abc"><img src="20180614_15.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20180614_16.JPG" data-lightbox="abc"><img src="20180614_16.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20180614_17.JPG" data-lightbox="abc"><img src="20180614_17.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20180614_18.JPG" data-lightbox="abc"><img src="20180614_18.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20180614_19.JPG" data-lightbox="abc"><img src="20180614_19.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20180614_20.JPG" data-lightbox="abc"><img src="20180614_20.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20180614_21.JPG" data-lightbox="abc"><img src="20180614_21.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20180614_22.JPG" data-lightbox="abc"><img src="20180614_22.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20180614_23.JPG" data-lightbox="abc"><img src="20180614_23.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20180614_12.JPG" data-lightbox="abc"><img src="20180614_12.JPG" alt="サンプル画像" width="100" /></a>
+<a href="20180614_13.JPG" data-lightbox="abc"><img src="20180614_13.JPG" alt="サンプル画像" width="100" /></a>
+<a href="20180614_14.JPG" data-lightbox="abc"><img src="20180614_14.JPG" alt="サンプル画像" width="100" /></a>
+<a href="20180614_15.JPG" data-lightbox="abc"><img src="20180614_15.JPG" alt="サンプル画像" width="100" /></a>
+<a href="20180614_16.JPG" data-lightbox="abc"><img src="20180614_16.JPG" alt="サンプル画像" width="100" /></a>
+<a href="20180614_17.JPG" data-lightbox="abc"><img src="20180614_17.JPG" alt="サンプル画像" width="100" /></a>
+<a href="20180614_18.JPG" data-lightbox="abc"><img src="20180614_18.JPG" alt="サンプル画像" width="100" /></a>
+<a href="20180614_19.JPG" data-lightbox="abc"><img src="20180614_19.JPG" alt="サンプル画像" width="100" /></a>
+<a href="20180614_20.JPG" data-lightbox="abc"><img src="20180614_20.JPG" alt="サンプル画像" width="100" /></a>
+<a href="20180614_21.JPG" data-lightbox="abc"><img src="20180614_21.JPG" alt="サンプル画像" width="100" /></a>
+<a href="20180614_22.JPG" data-lightbox="abc"><img src="20180614_22.JPG" alt="サンプル画像" width="100" /></a>
+<a href="20180614_23.JPG" data-lightbox="abc"><img src="20180614_23.JPG" alt="サンプル画像" width="100" /></a>
 <h3><span class="white">パノラマから上は櫛田さん、パノラマから下は緑川さん、背景画像は里村さんから頂きました。</span></h3></div>
 
 <br><br>
