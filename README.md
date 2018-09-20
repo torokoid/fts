@@ -45,11 +45,12 @@ body::before {
   -webkit-background-size:cover;/*Android4*/
   }
 
+<link rel="stylesheet" href="reset.css">
+<link rel="stylesheet" href="colorbox.css">
+<link rel="stylesheet" href="layout.css">
+
 </style> 
 
-<link rel="stylesheet" href="/reset.css">
-<link rel="stylesheet" href="/colorbox.css">
-<link rel="stylesheet" href="/layout.css">
 </head>
 <body>
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2018年6月14日(木)にFTS同窓会が執り行われました !!!</marquee></span></h1>
@@ -141,9 +142,9 @@ FTS関連の同窓会を以下の日程で行います。<br>
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br></span></h3>
 	</div></div>
 	
-<script src="/jquery-3.3.1.min.js"></script>
-<script src="/jquery.colorbox-min.js"></script>
-<script src="/index.js"></script>
+<script src="jquery-3.3.1.min.js"></script>
+<script src="jquery.colorbox-min.js"></script>
+<script src="index.js"></script>
 </body>
 
 </html>
