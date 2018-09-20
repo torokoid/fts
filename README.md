@@ -2,6 +2,11 @@
 <html lang="ja">
  <head>
   <meta charset="utf-8" />
+	 
+<link rel="stylesheet" href="reset.css">
+<link rel="stylesheet" href="colorbox.css">
+<link rel="stylesheet" href="layout.css">
+
 <style type="text/css">
 
   p {
@@ -45,9 +50,6 @@ body::before {
   -webkit-background-size:cover;/*Android4*/
   }
 
-<link rel="stylesheet" href="reset.css">
-<link rel="stylesheet" href="colorbox.css">
-<link rel="stylesheet" href="layout.css">
 
 </style> 
 
