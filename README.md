@@ -47,8 +47,8 @@ body::before {
   -webkit-background-size:cover;/*Android4*/
   }
 
+<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/css/lightbox.css" rel="stylesheet">
 </style> 
-
 </head>
 <body>
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2018年6月14日(木)にFTS同窓会が執り行われました !!!</marquee></span></h1>
@@ -57,31 +57,31 @@ body::before {
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
 <h3><span class="white">↓ 画像はクリックで拡大します。閲覧後はブラウザの戻るボタンでお戻りください。</span></h3>
-<a href="20180614_05.jpg" rel="group01"><img src="20180614_05.jpg" alt="サンプル画像" width="180" /></a>
-<a href="20180614_03.jpg" rel="group01"><img src="20180614_03.jpg" alt="サンプル画像" width="180" /></a>
-<a href="20180614_04.jpg" rel="group01"><img src="20180614_04.jpg" alt="サンプル画像" width="180" /></a>
-<a href="20180614_02.jpg" rel="group01" class="preview"><img src="20180614_02.jpg" alt="サンプル画像" width="180" /></a>
-<a href="20180614_06.jpg" rel="group01" class="preview"><img src="20180614_06.jpg" alt="サンプル画像" width="180" /></a>
-<a href="20180614_07.jpg" rel="group01" class="preview"><img src="20180614_07.jpg" alt="サンプル画像" width="180" /></a>
-<a href="20180614_08.jpg" rel="group01" class="preview"><img src="20180614_08.jpg" alt="サンプル画像" width="180" /></a>
-<a href="20180614_09.jpg" rel="group01" class="preview"><img src="20180614_09.jpg" alt="サンプル画像" width="180" /></a>
-<a href="20180614_10.jpg" rel="group01" class="preview"><img src="20180614_10.jpg" alt="サンプル画像" width="180" /></a><br><br>
-<a href="20180614_11.JPG" rel="group01" class="preview"><img src="20180614_11.JPG" alt="サンプル画像" width="500" /></a>
-<a href="20180614_01.JPG" rel="group01" class="preview"><img src="20180614_01.JPG" alt="サンプル画像" width="250" /></a>
-<h6><span class="white">↑パノラマ・マジックで、横山さんの手が千手観音になったり、誰だかわからない女性がいたりします。<br>
-画像のダウンロード要望がありましたので、背景画像へのリンクも付けました。</span></h6><br>
-<a href="20180614_12.JPG" rel="group01" class="preview"><img src="20180614_12.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20180614_13.JPG" rel="group01" class="preview"><img src="20180614_13.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20180614_14.JPG" rel="group01" class="preview"><img src="20180614_14.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20180614_15.JPG" rel="group01" class="preview"><img src="20180614_15.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20180614_16.JPG" rel="group01" class="preview"><img src="20180614_16.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20180614_17.JPG" rel="group01" class="preview"><img src="20180614_17.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20180614_18.JPG" rel="group01" class="preview"><img src="20180614_18.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20180614_19.JPG" rel="group01" class="preview"><img src="20180614_19.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20180614_20.JPG" rel="group01" class="preview"><img src="20180614_20.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20180614_21.JPG" rel="group01" class="preview"><img src="20180614_21.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20180614_22.JPG" rel="group01" class="preview"><img src="20180614_22.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20180614_23.JPG" rel="group01" class="preview"><img src="20180614_23.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20180614_05.jpg" data-lightbox="abc"><img src="20180614_05.jpg" alt="サンプル画像" width="180" /></a>
+<a href="20180614_03.jpg" data-lightbox="abc"><img src="20180614_03.jpg" alt="サンプル画像" width="180" /></a>
+<a href="20180614_04.jpg" data-lightbox="abc"><img src="20180614_04.jpg" alt="サンプル画像" width="180" /></a>
+<a href="20180614_02.jpg" data-lightbox="abc"><img src="20180614_02.jpg" alt="サンプル画像" width="180" /></a>
+<a href="20180614_06.jpg" data-lightbox="abc"><img src="20180614_06.jpg" alt="サンプル画像" width="180" /></a>
+<a href="20180614_07.jpg" data-lightbox="abc"><img src="20180614_07.jpg" alt="サンプル画像" width="180" /></a>
+<a href="20180614_08.jpg" data-lightbox="abc"><img src="20180614_08.jpg" alt="サンプル画像" width="180" /></a>
+<a href="20180614_09.jpg" data-lightbox="abc"><img src="20180614_09.jpg" alt="サンプル画像" width="180" /></a>
+<a href="20180614_10.jpg" data-lightbox="abc"><img src="20180614_10.jpg" alt="サンプル画像" width="180" /></a><br><br>
+<a href="20180614_11.JPG" data-lightbox="abc"><img src="20180614_11.JPG" alt="サンプル画像" width="500" /></a>
+<a href="20180614_01.JPG" data-lightbox="abc"><img src="20180614_01.JPG" alt="サンプル画像" width="250" /></a>
+<h4><span class="white">↑パノラマ・マジックで、横山さんの手が千手観音になったり、誰だかわからない女性がいたりします。<br>
+画像のダウンロード要望がありましたので、背景画像へのリンクも付けました。</span></h4><br>
+<a href="20180614_12.JPG" data-lightbox="abc"><img src="20180614_12.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20180614_13.JPG" data-lightbox="abc"><img src="20180614_13.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20180614_14.JPG" data-lightbox="abc"><img src="20180614_14.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20180614_15.JPG" data-lightbox="abc"><img src="20180614_15.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20180614_16.JPG" data-lightbox="abc"><img src="20180614_16.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20180614_17.JPG" data-lightbox="abc"><img src="20180614_17.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20180614_18.JPG" data-lightbox="abc"><img src="20180614_18.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20180614_19.JPG" data-lightbox="abc"><img src="20180614_19.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20180614_20.JPG" data-lightbox="abc"><img src="20180614_20.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20180614_21.JPG" data-lightbox="abc"><img src="20180614_21.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20180614_22.JPG" data-lightbox="abc"><img src="20180614_22.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20180614_23.JPG" data-lightbox="abc"><img src="20180614_23.JPG" alt="サンプル画像" width="180" /></a>
 <h3><span class="white">パノラマから上は櫛田さん、パノラマから下は緑川さん、背景画像は里村さんから頂きました。</span></h3></div>
 
 <br><br>
@@ -139,6 +139,9 @@ FTS関連の同窓会を以下の日程で行います。<br>
 株式会社 本田技術研究所　R&DセンターＸ<br>
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br></span></h3>
 	</div></div>
+
+<script src="https://code.jquery.com/jquery-1.12.4.min.js" type="text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/js/lightbox.min.js" type="text/javascript"></script>
 
 </body>
 
