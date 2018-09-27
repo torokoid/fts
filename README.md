@@ -140,6 +140,10 @@ FTS関連の同窓会を以下の日程で行います。<br>
 株式会社 本田技術研究所　R&DセンターＸ<br>
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br></span></h3>
 	</div></div>
+<div><div><div><div><div>	
+<a href="https://photos.google.com/u/1/">FTS画像Link</a>	
+<div><div><div><div><div>	
+	
 
 <script src="https://code.jquery.com/jquery-1.12.4.min.js" type="text/javascript"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/js/lightbox.min.js" type="text/javascript"></script>
