@@ -141,7 +141,8 @@ FTS関連の同窓会を以下の日程で行います。<br>
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br></span></h3>
 	</div></div>
 <br><br><br><br><br><br><br><br><br><br>	
-	<h2><a href="https://photos.google.com/u/1/" target="_blank">FTS画像Link</a></h2>
+	<h2><span class="yellow"><marquee behavior="alternate">
+<a href="https://torokoid.github.io/fts_furuhashi/">2018/11/15,古橋さんご卒業記念パーティー → Link !</a> </marquee></span></h2>
 <br><br><br><br>	
 	
 
