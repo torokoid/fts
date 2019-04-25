@@ -55,6 +55,9 @@ body::before {
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2019年4月22日(月)安否確認会、集合写真 !!!</marquee></span></h1>
 <a href="1.jpg" data-lightbox="abc"><img src="1.jpg" alt="サンプル画像" width="900" /></a>
 <a href="2.jpg" data-lightbox="abc"><img src="2.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190422_03.PNG" data-lightbox="abc"><img src="20190422_03.PNG" alt="サンプル画像" width="900" /></a>
+<a href="20190422_04.PNG" data-lightbox="abc"><img src="20190422_04.PNG" alt="サンプル画像" width="900" /></a>
+
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2018年6月14日(木)にFTS同窓会が執り行われました !!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
