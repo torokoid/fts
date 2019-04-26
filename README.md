@@ -54,10 +54,10 @@ body::before {
 <body>
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2019年4月22日(月)平成最後の安否確認会の記録＠牡蠣ビストロ貝殻荘(飯田橋) !!!</marquee></span></h1>
 <div style="background-color:rgb(255,255,255,0.3);">
-<h3><span class="white">里村さん提供の集合写真</span></h3>
+<h3><span class="white">里村さん提供の集合写真↓</span></h3>
 <a href="1.jpg" data-lightbox="abc"><img src="1.jpg" alt="サンプル画像" width="900" /></a>
 <a href="2.jpg" data-lightbox="abc"><img src="2.jpg" alt="サンプル画像" width="900" /></a>
-<h3><span class="white">緑川さん提供、小さなカメラからのスナップ</span></h3>
+<h3><span class="white">緑川さん提供、小さなカメラからのスナップ↓</span></h3>
 <a href="20190422_003.jpg" data-lightbox="abc"><img src="20190422_003.jpg" alt="サンプル画像" width="450" /></a>
 <a href="20190422_004.jpg" data-lightbox="abc"><img src="20190422_004.jpg" alt="サンプル画像" width="450" /></a>
 <a href="20190422_005.jpg" data-lightbox="abc"><img src="20190422_005.jpg" alt="サンプル画像" width="450" /></a>
