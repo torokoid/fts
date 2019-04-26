@@ -55,8 +55,25 @@ body::before {
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2019年4月22日(月)安否確認会、集合写真 !!!</marquee></span></h1>
 <a href="1.jpg" data-lightbox="abc"><img src="1.jpg" alt="サンプル画像" width="900" /></a>
 <a href="2.jpg" data-lightbox="abc"><img src="2.jpg" alt="サンプル画像" width="900" /></a>
-<a href="20190422_003.PNG" data-lightbox="abc"><img src="20190422_003.PNG" alt="サンプル画像" width="900" /></a>
-<a href="20190422_004.PNG" data-lightbox="abc"><img src="20190422_004.PNG" alt="サンプル画像" width="900" /></a>
+<a href="20190422_003.jpg" data-lightbox="abc"><img src="20190422_003.jpg" alt="サンプル画像" width="450" /></a>
+<a href="20190422_004.jpg" data-lightbox="abc"><img src="20190422_004.jpg" alt="サンプル画像" width="450" /></a>
+<a href="20190422_005.jpg" data-lightbox="abc"><img src="20190422_005.jpg" alt="サンプル画像" width="450" /></a>
+<a href="20190422_006.jpg" data-lightbox="abc"><img src="20190422_006.jpg" alt="サンプル画像" width="450" /></a>
+<a href="20190422_007.jpg" data-lightbox="abc"><img src="20190422_007.jpg" alt="サンプル画像" width="450" /></a>
+<a href="20190422_008.jpg" data-lightbox="abc"><img src="20190422_008.jpg" alt="サンプル画像" width="450" /></a>
+<a href="20190422_009.jpg" data-lightbox="abc"><img src="20190422_009.jpg" alt="サンプル画像" width="450" /></a>
+<a href="20190422_010.jpg" data-lightbox="abc"><img src="20190422_010.jpg" alt="サンプル画像" width="450" /></a>
+<a href="20190422_011.jpg" data-lightbox="abc"><img src="20190422_011.jpg" alt="サンプル画像" width="450" /></a>
+<a href="20190422_012.jpg" data-lightbox="abc"><img src="20190422_012.jpg" alt="サンプル画像" width="450" /></a>
+<a href="20190422_013.jpg" data-lightbox="abc"><img src="20190422_013.jpg" alt="サンプル画像" width="450" /></a>
+<a href="20190422_014.jpg" data-lightbox="abc"><img src="20190422_014.jpg" alt="サンプル画像" width="450" /></a>
+<a href="20190422_015.jpg" data-lightbox="abc"><img src="20190422_015.jpg" alt="サンプル画像" width="450" /></a>
+<a href="20190422_016.jpg" data-lightbox="abc"><img src="20190422_016.jpg" alt="サンプル画像" width="450" /></a>
+<a href="20190422_017.jpg" data-lightbox="abc"><img src="20190422_017.jpg" alt="サンプル画像" width="450" /></a>
+<a href="20190422_018.jpg" data-lightbox="abc"><img src="20190422_018.jpg" alt="サンプル画像" width="450" /></a>
+<a href="20190422_019.jpg" data-lightbox="abc"><img src="20190422_019.jpg" alt="サンプル画像" width="450" /></a>
+<a href="20190422_020.jpg" data-lightbox="abc"><img src="20190422_020.jpg" alt="サンプル画像" width="450" /></a>
+<a href="20190422_021.jpg" data-lightbox="abc"><img src="20190422_021.jpg" alt="サンプル画像" width="450" /></a>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2018年6月14日(木)にFTS同窓会が執り行われました !!!</marquee></span></h1>
