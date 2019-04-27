@@ -77,12 +77,16 @@ body::before {
 <a href="20190422_019.jpg" data-lightbox="abc"><img src="20190422_019.jpg" alt="サンプル画像" width="450" /></a>
 <a href="20190422_020.jpg" data-lightbox="abc"><img src="20190422_020.jpg" alt="サンプル画像" width="450" /></a>
 <a href="20190422_021.jpg" data-lightbox="abc"><img src="20190422_021.jpg" alt="サンプル画像" width="450" /></a>
+<h3><span class="white">雅代さん提供のスナップと集合写真↓</span></h3>
+<a href="20190422_022.jpg" data-lightbox="abc"><img src="20190422_022.jpg" alt="サンプル画像" width="450" /></a>
+<a href="20190422_023.jpg" data-lightbox="abc"><img src="20190422_023.jpg" alt="サンプル画像" width="450" /></a>
+<a href="20190422_024.jpg" data-lightbox="abc"><img src="20190422_024.jpg" alt="サンプル画像" width="900" /></a>
 </div>
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2018年6月14日(木)にFTS同窓会が執り行われました !!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
 <h3><span class="white">↓ 画像はクリックで拡大します。スライドショーで閲覧できます。</span></h3>
