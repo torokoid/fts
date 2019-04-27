@@ -78,9 +78,9 @@ body::before {
 <a href="20190422_020.jpg" data-lightbox="abc"><img src="20190422_020.jpg" alt="サンプル画像" width="450" /></a>
 <a href="20190422_021.jpg" data-lightbox="abc"><img src="20190422_021.jpg" alt="サンプル画像" width="450" /></a>
 <h3><span class="white">雅代さん提供のスナップと集合写真↓</span></h3>
-<a href="20190422_022.jpg" data-lightbox="abc"><img src="20190422_022.jpg" alt="サンプル画像" width="450" /></a>
-<a href="20190422_023.jpg" data-lightbox="abc"><img src="20190422_023.jpg" alt="サンプル画像" width="450" /></a>
-<a href="20190422_024.jpg" data-lightbox="abc"><img src="20190422_024.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190422_022.JPG" data-lightbox="abc"><img src="20190422_022.JPG" alt="サンプル画像" width="450" /></a>
+<a href="20190422_023.JPG" data-lightbox="abc"><img src="20190422_023.JPG" alt="サンプル画像" width="450" /></a>
+<a href="20190422_024.JPG" data-lightbox="abc"><img src="20190422_024.JPG" alt="サンプル画像" width="900" /></a>
 </div>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
