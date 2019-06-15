@@ -184,6 +184,10 @@ FTS関連の同窓会を以下の日程で行います。<br>
 
 <br><br>
 
+<script type='text/javascript' src='https://torokoid.github.io/shiba/jquery.js?ver=1.12.4'></script>
+<script src="https://torokoid.github.io/shiba/jquery.goup.min.js"></script>
+<script src="https://torokoid.github.io/shiba/my.js"></script> 
+
 <!-- フッタ -->
  <footer>
  Copyright 2018/06/15 S.Hada
