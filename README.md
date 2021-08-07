@@ -52,7 +52,7 @@ body::before {
  
 </head>
 <body>
-<p><a href="https://torokoid.github.io/fts_home">Home</a>>同窓会><a href="https://torokoid.github.io/fts_2">Teams同窓会</a></p>
+<p><a href="https://torokoid.github.io/fts_home">Home</a>>同窓会><a href="https://torokoid.github.io/fts_2">Teams同窓会</a>><a href="https://torokoid.github.io/fts_3">Teams同窓会_2</a></p>
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2019年4月22日(月)平成最後の安否確認会の記録＠牡蠣ビストロ貝殻荘(飯田橋) !!!</marquee></span></h1>
 <div style="background-color:rgb(255,255,255,0.3);">
 <h3><span class="white">里村さん提供の集合写真↓</span></h3>
